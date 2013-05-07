@@ -3,6 +3,9 @@
 # C extensions
 *.so
 
+# Config files
+*.yml
+
 # Packages
 *.egg
 *.egg-info
