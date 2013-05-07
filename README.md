@@ -1,8 +1,6 @@
 DSIP Raspcam
 ===============================
-
-[![Build Status](https://travis-ci.org/elg0nz/dsip_raspcam.png?branch=master)][travis]
-
+[![Build Status](https://travis-ci.org/elg0nz/dsip_raspcam.png?branch=master)](https://travis-ci.org/elg0nz/dsip_raspcam)
 A script to take pictures from an IP camera and upload them to dropbox using a Rasperry PI
 
 Usage: run ds_ip.py and follow the prompts. 
